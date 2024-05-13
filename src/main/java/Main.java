@@ -6,7 +6,7 @@ public class Main {
     System.out.println("///////////////////");
     System.out.println("/ Banda: Deftones /");
     System.out.println("///////////////////");
-
+System.out.println("------------------------------------------------------------------------------------------------");
 
     System.out.println("");
 
@@ -20,14 +20,22 @@ System.out.println("------------------------------------------------------------
   System.out.println("///////////");
   System.out.println("/ Musicas /");
   System.out.println("///////////");
-
-   System.out.println(" 1 Back to school     3:58."); 
-    System.out.println(" 2 Feiticeira         3:10.");
-    System.out.println(" 3 Digital Bath       4:16.");
-    System.out.println(" 4 Elite             04:02.");
-    System.out.println(" 5 Rx Queen          04:29.");
-    System.out.println(" 6 Steet Carp        02:42.");
+  System.out.println("");   
+System.out.println("------------------------------------------------------------------------------------------------");
     
+   System.out.println(" 1  Back to school                      03:58."); 
+    System.out.println(" 2  Feiticeira                          03:10.");
+    System.out.println(" 3  Digital Bath                        04:16.");
+    System.out.println(" 4  Elite                               04:02.");
+    System.out.println(" 5  Rx Queen                            04:29.");
+    System.out.println(" 6  Steet Carp                          02:42.");
+    System.out.println(" 7  Teenager                            03:21.");
+    System.out.println(" 8  Knife Prty                          04:50.");
+    System.out.println(" 9  Korea                               03:24.");
+    System.out.println(" 10 Passenger                           06:09.");
+    System.out.println(" 11 Change(in the house of lies)        05:00.");
+    System.out.println(" 12 Pink Maggit                         07:34.");
+    System.out.println("------------------------------------------------------------------------------------------------");    
   }
 
   
